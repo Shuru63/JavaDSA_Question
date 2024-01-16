@@ -43,36 +43,6 @@ The solutions are written in Java. Make sure you have Java Development Kit (JDK)
 
 The repository is structured as follows:
 
-Certainly! Here's a template for a README file specifically tailored for a GitHub repository containing basic Java and Data Structures and Algorithms (DSA) question solutions:
-
-markdown
-Copy code
-# Java and DSA Practice
-
-This repository contains solutions to basic Java programming and Data Structures and Algorithms questions. It serves as a resource for learning and practicing Java concepts along with commonly encountered DSA problems.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Java Version](#java-version)
-- [Folder Structure](#folder-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Overview
-
-This repository is a collection of solutions to fundamental Java programming questions and popular Data Structures and Algorithms problems. Each question is organized into its own directory and includes a Java file with a solution.
-
-## Java Version
-
-The solutions are written in Java. Make sure you have Java Development Kit (JDK) [version] installed on your machine.
-
-## Folder Structure
-
-The repository is structured as follows:
-
 /java-dsa-practice
 ├──basic Qustions
 │ ├── Question1.java
