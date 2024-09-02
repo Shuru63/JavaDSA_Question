@@ -31,7 +31,7 @@ public class arrayreverse {
     }
 
     public static void main(String args[]) {
-        try (Scanner sc = new Scanner(System.in)) {
+        try (Scanner sc=new Scanner(System.in)) {
             System.out.println("enter the size of array : ");
             int n = sc.nextInt();
             int arr[] = new int[n];
