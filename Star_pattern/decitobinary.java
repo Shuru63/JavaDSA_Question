@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class decitobinary {
     public static int decimal(int num){
        int binary=0;

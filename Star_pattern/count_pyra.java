@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 public class count_pyra {
     public static void main(String args[]) {

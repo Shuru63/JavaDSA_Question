@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class trapingRainWater {
     public static int rainwater(int arr[]){
         // left maximum element axuilary array

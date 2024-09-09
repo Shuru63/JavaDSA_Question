@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class Kadane_algo {
     public static int Kadane(int arr[]){
         int maxsum=Integer.MIN_VALUE;

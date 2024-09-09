@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class floodytriangle {
     public static void pattern(int num){
         int count=1;

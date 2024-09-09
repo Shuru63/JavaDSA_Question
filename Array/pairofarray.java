@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class pairofarray {
     public static void pair(int arr[]){
         for(int i=0; i<arr.length; i++){

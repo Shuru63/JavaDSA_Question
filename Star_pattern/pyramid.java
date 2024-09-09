@@ -1,5 +1,6 @@
 
 import java.util.*;
+import java.util.Scanner;
 public class pyramid {
      public static void main(String args[]) {
         try (Scanner sc = new Scanner(System.in)) {

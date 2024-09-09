@@ -1,4 +1,5 @@
 import java .util.*;
+import java.util.Scanner;
 public class binarytodecimal{
     public static int binary(int num){
         int pow=0;

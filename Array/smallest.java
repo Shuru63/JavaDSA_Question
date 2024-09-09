@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class smallest {
 
     public static int smallestarray(int arr[]){
