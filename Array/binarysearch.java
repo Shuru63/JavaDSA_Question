@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 public class binarysearch {
     public static int binary(int arr[], int key) {

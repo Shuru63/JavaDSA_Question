@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 public class factorial_function {
     public static int fact(int num) {

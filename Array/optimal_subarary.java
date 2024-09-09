@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class optimal_subarary {
     public static int subarray(int arr[]){
         int maxsum=Integer.MIN_VALUE;

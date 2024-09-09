@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 public class Sum_subarray {
     public static int subarray(int arr[]) {

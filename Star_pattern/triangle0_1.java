@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class triangle0_1 {
     public static void triangle(int num){
         for(int i=1; i<=num; i++){

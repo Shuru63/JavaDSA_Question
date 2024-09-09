@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class binomial {
     public static int fact(int num){
         if(num==0){

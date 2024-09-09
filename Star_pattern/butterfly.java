@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class butterfly {
     public static void titly(int num){
         // part 1

@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class callby {
     public static void swap_Value(int a ,int b){
          int temp=a;

@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 public class Bubblesorted {
     public static void sorting(int arr[]) {

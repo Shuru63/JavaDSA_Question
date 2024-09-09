@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class subarray {
     public static void sub(int arr[]){
       for(int i=0; i<arr.length; i++){

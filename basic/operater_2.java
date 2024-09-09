@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class operater_2 {
     public static void main(String argd[]){
         try(Scanner sc= new Scanner(System.in)){

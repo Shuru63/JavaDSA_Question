@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class numberinverted {
     public static void pattern(int num){
         for(int i=1; i<=num; i++){

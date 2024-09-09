@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 public class AAraysort {
     public static void main(String arg[]){

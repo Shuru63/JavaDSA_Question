@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class basiclogic_prime {
     public static void main(String args[]){
         try(Scanner sc = new Scanner(System.in)){

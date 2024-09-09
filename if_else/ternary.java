@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class ternary {
     
     public static void main(String arg[]){

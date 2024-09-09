@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 public class BuyStock {
     public static int buysell(int arr[]){
         int buyprice=Integer.MAX_VALUE;
